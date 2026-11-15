@@ -1,3 +1,4 @@
+[![DSHIO/T 10](https://dshio.org/badge/std.svg)](https://dshio.org/10/) [![deepseekbase](https://deepseekbase.com/badge/dsh-logistics.svg)](https://deepseekbase.com/plugins/dsh-logistics/)
 <p align="center"><strong>dsh-logistics — 跨境物流与单证</strong></p>
 
 按重量/体积/时效推荐运输方式，列出口单证。
